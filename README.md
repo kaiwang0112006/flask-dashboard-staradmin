@@ -43,7 +43,7 @@ $ # app is running on port 5000
 ## Resources
 
 - [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Official Product Page
-- [Flask Dashboard Star Admin](https://flask-dashboard-purpleadmin.appseed.us/) - Live DEMO
+- [Flask Dashboard Star Admin](https://flask-dashboard-staradmin.appseed.us/) - Live DEMO
 - [Flask Framework](https://palletsprojects.com/p/flask/) - official website
  
 <br />

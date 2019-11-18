@@ -1,6 +1,6 @@
 # [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)** coded in **Flask Web Framework** on top of **Star Admin Dashboard** design, crafted by Creative-Tim agency. **Dashboard** features:
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)** coded in **Flask Web Framework** on top of **Star Admin Dashboard** design. **Dashboard** features:
 
 <br />
 

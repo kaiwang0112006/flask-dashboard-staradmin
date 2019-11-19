@@ -1,8 +1,6 @@
 # [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)** coded in **Flask Web Framework** on top of **Star Admin Dashboard** design. **Dashboard** features:
-
-<br />
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)** coded in **Flask Framework** on top of **StarAdmin** design. **Features**:
 
 - SQLite database
 - SQLAlchemy ORM

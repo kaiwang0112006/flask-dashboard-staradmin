@@ -5,6 +5,7 @@
 - SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
+- UI Kit: [StarAdmin](https://github.com/app-generator/fork-staradmin-admin-dashboard) by **BootstrapDash**
 
 <br />
 

@@ -58,7 +58,7 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 
 ## Support
 
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and [Github](https://github.com/app-generator/flask-argon-dashboard/issues/)
+- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
 
 <br />

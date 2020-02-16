@@ -14,11 +14,14 @@
             <div class="auto-form-wrapper">
             
             <center>
+                <h2 class="text-center mb-4">Login</h2>
 
                 {% if msg %}
                     <span class="text-danger">{{ msg | safe }}</span>
                 {% else %}
-                    <span class="font-weight-semibold">Login</span>
+                    Use default credentials: <strong>test / pass</strong>
+                    <br />
+                    OR <a href={{ url_for('register') }} >create your own user</a>                    
                 {% endif %}
                 
             </center>
@@ -60,10 +63,8 @@
                 </div>
                 <a href="#" class="text-small forgot-password text-black">Forgot Password</a>
                 </div>
-                <div class="form-group">
-                <button class="btn btn-block g-login">
-                    <img class="mr-3" src="/static/assets/images/file-icons/icon-google.svg" alt="">Log in with Google</button>
-                </div>
+
+                
                 <div class="text-block text-center my-3">
                 <span class="text-small font-weight-semibold">Not a member?</span>
                 <a href="/register.html" class="text-black text-small">Create new account</a>
@@ -82,7 +83,7 @@
             </li>
             </ul>
             <p class="footer-text text-center">
-            © BootstrapDash - <a href="https://appseed.us/admin-dashboards/flask-dashboard-staradmin">Flask Dashboard StarAdmin</a>
+            © BootstrapDash - <a class="text-white" href="https://appseed.us/admin-dashboards/flask-dashboard-staradmin">Flask Dashboard StarAdmin</a>
             </p>
         </div>
     </div>

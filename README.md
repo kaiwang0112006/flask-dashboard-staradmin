@@ -11,6 +11,14 @@
 
 <br />
 
+## Dashboard Links
+
+- [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - the product page
+- [Flask Dashboard Star Admin](https://flask-dashboard-staradmin.appseed.us/login.html) - LIVE Demo
+- [Flask Dashboard Star Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-star-admin/) - documentation
+
+<br />
+
 ## Want more? Go PRO!
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))

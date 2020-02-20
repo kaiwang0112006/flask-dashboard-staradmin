@@ -1,21 +1,24 @@
 # [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Star Admin Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
-### Dashboard Features:
+## Dashboard Features:
 
-- SQLite database
+- UI-Ready, SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
-- UI Kit: [StarAdmin](https://github.com/app-generator/fork-staradmin-admin-dashboard) by **BootstrapDash**
+- Forms validation
+- UI Kit: **[Star Admin Dashboard](https://flask-dashboard-staradmin.appseed.us/login)** (Free version) provided by **BootstrapDash**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
 <br />
 
 ## Dashboard Links
 
-- [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - the product page
+- [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Product page
+- [Flask Dashboard Star Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin/) - Documentation
 - [Flask Dashboard Star Admin](https://flask-dashboard-staradmin.appseed.us/login.html) - LIVE Demo
-- [Flask Dashboard Star Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-star-admin/) - documentation
 
 <br />
 
@@ -72,20 +75,25 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 
 <br />
 
-## Support
-
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
+## Credits & Links
 
 <br />
 
-## Resources
+### [Flask Framework](https://www.palletsprojects.com/p/flask/)
 
-- [Flask Dashboard Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Product page
-- [Flask Dashboard Star Admin](https://flask-dashboard-staradmin.appseed.us/) - Live DEMO
-- [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
-- [Flask Dashboard - Open-Source Boilerplates](https://dev.to/sm0ke/flask-dashboard-open-source-boilerplates-dkg) - A popular article published on Dev.to platform
-- [Flask Dashboard](https://admin-dashboards.com/tags/flask-dashboard) - Index provided by **Admin-Dashboards.com**
+[Flask](/what-is/flask) is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+
+<br />
+
+## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+### [Star Admin Dashboard](https://www.bootstrapdash.com/product/star-admin-free/)
+
+Beautifully designed and well-coded admin template, that comes with excellent support from experts. One of the most popular free admin templates, Star admin is a beautifully designed admin template with a lot of the polished Bootstrap components making up its dashboard and other pages - provided by **BootstrapDash**.
 
 <br />
 
